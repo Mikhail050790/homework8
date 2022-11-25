@@ -1,0 +1,15 @@
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\obj\Debug\net6.0\dz_3.csproj.AssemblyReference.cache
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\obj\Debug\net6.0\dz_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\obj\Debug\net6.0\dz_3.AssemblyInfoInputs.cache
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\obj\Debug\net6.0\dz_3.AssemblyInfo.cs
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\obj\Debug\net6.0\dz_3.csproj.CoreCompileInputs.cache
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\bin\Debug\net6.0\dz_3.exe
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\bin\Debug\net6.0\dz_3.deps.json
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\bin\Debug\net6.0\dz_3.runtimeconfig.json
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\bin\Debug\net6.0\dz_3.dll
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\bin\Debug\net6.0\dz_3.pdb
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\obj\Debug\net6.0\dz_3.dll
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\obj\Debug\net6.0\refint\dz_3.dll
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\obj\Debug\net6.0\dz_3.pdb
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\obj\Debug\net6.0\dz_3.genruntimeconfig.cache
+C:\Users\belou\OneDrive\Рабочий стол\DZ_6\dz_3\obj\Debug\net6.0\ref\dz_3.dll
